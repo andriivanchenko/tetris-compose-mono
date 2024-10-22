@@ -1,6 +1,6 @@
 # Compose Tetris
 
-English | [中文介绍](https://github.com/vitaviva/compose-tetris/blob/master/README_zh.md)
+English
 
 ![](https://img.shields.io/badge/jetpack_compose-1.0.0_beta02-green.svg)
 ![](https://img.shields.io/badge/min_sdk_versioin-21-orange.svg)
